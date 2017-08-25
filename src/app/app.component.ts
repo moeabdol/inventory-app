@@ -13,7 +13,7 @@ export class AppComponent {
   constructor() {
     this.products = [
       new Product(
-        "MySHOES",
+        "MYSHOES",
         "Black Runing Shoes",
         "/assets/images/products/black-shoes.jpg",
         ["Men", "Shoes", "Running Shoes"],
@@ -22,7 +22,7 @@ export class AppComponent {
       new Product(
         "NEATOJACKET",
         "Blue Jacket",
-        "/assets/images/products/blud-jacket.jpg",
+        "/assets/images/products/blue-jacket.jpg",
         ["Women", "Apparel", "Jackets & Vests"],
         238.99
       ),
